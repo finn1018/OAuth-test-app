@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/OAuth-test-app/static/css/main.6a62ba42.chunk.css",
-    "main.js": "/OAuth-test-app/static/js/main.16cf6ad4.chunk.js",
-    "main.js.map": "/OAuth-test-app/static/js/main.16cf6ad4.chunk.js.map",
+    "main.js": "/OAuth-test-app/static/js/main.b0a7ac9d.chunk.js",
+    "main.js.map": "/OAuth-test-app/static/js/main.b0a7ac9d.chunk.js.map",
     "runtime-main.js": "/OAuth-test-app/static/js/runtime-main.5588f82d.js",
     "runtime-main.js.map": "/OAuth-test-app/static/js/runtime-main.5588f82d.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/OAuth-test-app/static/css/2.4c97ca4f.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.701a88b8.chunk.js",
     "static/css/main.6a62ba42.chunk.css",
-    "static/js/main.16cf6ad4.chunk.js"
+    "static/js/main.b0a7ac9d.chunk.js"
   ]
 }
