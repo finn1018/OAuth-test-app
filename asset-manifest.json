@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/OAuth-test-app/static/css/main.6a62ba42.chunk.css",
-    "main.js": "/OAuth-test-app/static/js/main.4c60f0d7.chunk.js",
-    "main.js.map": "/OAuth-test-app/static/js/main.4c60f0d7.chunk.js.map",
+    "main.js": "/OAuth-test-app/static/js/main.d2fc5877.chunk.js",
+    "main.js.map": "/OAuth-test-app/static/js/main.d2fc5877.chunk.js.map",
     "runtime-main.js": "/OAuth-test-app/static/js/runtime-main.5588f82d.js",
     "runtime-main.js.map": "/OAuth-test-app/static/js/runtime-main.5588f82d.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/OAuth-test-app/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.4bcf101a.chunk.js": "/OAuth-test-app/static/js/2.4bcf101a.chunk.js",
-    "static/js/2.4bcf101a.chunk.js.map": "/OAuth-test-app/static/js/2.4bcf101a.chunk.js.map",
+    "static/js/2.9839af93.chunk.js": "/OAuth-test-app/static/js/2.9839af93.chunk.js",
+    "static/js/2.9839af93.chunk.js.map": "/OAuth-test-app/static/js/2.9839af93.chunk.js.map",
     "index.html": "/OAuth-test-app/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/OAuth-test-app/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.6a62ba42.chunk.css.map": "/OAuth-test-app/static/css/main.6a62ba42.chunk.css.map",
-    "static/js/2.4bcf101a.chunk.js.LICENSE.txt": "/OAuth-test-app/static/js/2.4bcf101a.chunk.js.LICENSE.txt"
+    "static/js/2.9839af93.chunk.js.LICENSE.txt": "/OAuth-test-app/static/js/2.9839af93.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5588f82d.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.4bcf101a.chunk.js",
+    "static/js/2.9839af93.chunk.js",
     "static/css/main.6a62ba42.chunk.css",
-    "static/js/main.4c60f0d7.chunk.js"
+    "static/js/main.d2fc5877.chunk.js"
   ]
 }
